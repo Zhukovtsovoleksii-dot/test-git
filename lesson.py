@@ -1,7 +1,7 @@
 
 print('hello')
       
-print(123)
+print('lesson')
 
 print('how are u')
 
