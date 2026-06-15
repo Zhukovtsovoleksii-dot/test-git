@@ -1,7 +1,4 @@
 
-print('hello')
-      
-print(123)
+print('hello my friend')
 
-print('how are u')
 
